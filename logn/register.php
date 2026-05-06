@@ -6,6 +6,6 @@
         <option value="Resident">Resident</option>
         <option value="Collector">Collector</option>
     </select>
-    <button type="submit" name="register">Sign Up</button>
-    <p>Naa nay account? <a href="login.php">Login diri</a></p>
+    <button type="submit" name="register"><b>Sign Up</b></button>
+    <p>Already have an account? <a href="login.php"><b>Login</b></a></p>
 </form>
