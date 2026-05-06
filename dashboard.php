@@ -2,7 +2,7 @@
 include 'connect.php';
 
 [span_5](start_span)
-JOIN requirement[span_5](end_span)
+
 $sql = "SELECT
 l.barangay_name,
 s.collection_day,
