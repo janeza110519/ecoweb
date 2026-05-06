@@ -1,6 +1,6 @@
 <?php
 session_start(); [span_4](start_span)
-include 'connect.php';
+include 'db_connect.php';
 
 if (isset($_POST['login'])) {
     $username = $_POST['username'];
